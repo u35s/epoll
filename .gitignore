@@ -1,0 +1,7 @@
+*tar.bz2
+test
+epoll
+tags
+./server
+./client
+*.o
